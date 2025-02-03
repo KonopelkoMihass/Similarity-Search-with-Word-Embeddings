@@ -11,31 +11,6 @@
 -->
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Running</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a menu-driven console application that allows users to perform a similarity search for the
@@ -44,14 +19,8 @@ inputted words and receive a text file with similar words.  Similarity search pr
 The project was developed as part of the higher diploma course.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
 Java
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -79,9 +48,6 @@ Java SDK 22.0.1 is required to compile and run this project.
    java ie/atu/sw/Runner
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -97,9 +63,6 @@ Once run, there will be a menu with 4 options:
 	4. enter the text for similarity search. Can be one word or a string of words. Upon submission, it starts the search and creates an output file.
 4. exit application
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- Features -->
 ## Features
@@ -109,12 +72,11 @@ Once run, there will be a menu with 4 options:
 - System feedback (on loading embeddings and more)
 - Support for both Cosine+Dot Search and Euclidean Searches.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Mihass Konopelko - [@twitter_handle](https://x.com/MihassM60911) - konopelkomihass@gmail.com
+Mihass Konopelko - [Twitter/X](https://x.com/MihassM60911) - konopelkomihass@gmail.com
 
+Project Link: [https://github.com/KonopelkoMihass/Similarity-Search-with-Word-Embeddings/](https://github.com/KonopelkoMihass/Similarity-Search-with-Word-Embeddings/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
