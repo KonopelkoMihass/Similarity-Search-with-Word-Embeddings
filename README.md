@@ -35,7 +35,7 @@ Java SDK 22.0.1 is required to compile and run this project.
 
 1. Clone the repo    
 	```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/KonopelkoMihass/Similarity-Search-with-Word-Embeddings
    ```
 2. Go into the src/ folder
 3. Open the console in the directory and compile it
